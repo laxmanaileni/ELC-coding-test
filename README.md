@@ -1,3 +1,16 @@
+# Sample Outputs:
+
+<img width="1375" alt="image" src="https://user-images.githubusercontent.com/59108427/232172739-bed2d920-7fc6-4da7-9aee-c7ee0236414d.png">
+
+# Sample Output of SEARCH RESULTS:
+
+<img width="1379" alt="image" src="https://user-images.githubusercontent.com/59108427/232172658-ca7b9f67-e7c5-45d0-80a2-19ab1789a5a8.png">
+
+
+
+
+
+
 # ELC Javscript Coding Test
 
 The ELC Javascript Coding Test is a way for you to showcase your own approach to coding. It allows you to create something with your own style and preferences. You can change the code to match your own preferences however you like. Feel free to change the setup, code or approach however you like. PLEASE READ ALL INSTRUCTIONS BELOW BEFORE STARTING.
